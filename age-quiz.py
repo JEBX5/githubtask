@@ -7,7 +7,7 @@ elif(age>=65):
 
 #check if greater or equal on 40 (but less than 65 based on above)
 elif(age>=40):
-    print("You're over the hill.")
+    print("Congratulations on being in the fun stage of life!")
 
 #Now check if less than 13
 elif(age<13):

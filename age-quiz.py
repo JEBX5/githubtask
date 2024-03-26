@@ -1,10 +1,6 @@
 #age input from user
 age = int(input("Please enter your age: "))
 
-# check if variable age is greater than 100
-if(age>100): 
-    print("Sorry, you're dead.")
-
 #check if over or equal to 65 (but less than 101 because of statement above)
 elif(age>=65):
     print("Enjoy your retirement!")
